@@ -1,1 +1,4 @@
-use ubuntu
+---
+layout: post
+---
+- use ubuntu
