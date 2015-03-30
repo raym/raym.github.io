@@ -1,4 +1,4 @@
 ---
+layout: default
 ---
-# Let it Grow
-a tale of going full wizard
+{% include posts_index.html %}
